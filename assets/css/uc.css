@@ -1,0 +1,27 @@
+html{
+	margin: 0px !important;
+}
+body{
+	margin: 0px !important;
+	padding: 0px !important;
+}
+#frst_frame{
+	margin: 0px !important;
+	background-image:url(../img/raw_dl/office001.jpg);
+	-moz-background-size: cover;
+	-webkit-background-size: cover;
+	background-repeat:no-repeat;
+	height: 784px;
+}
+.boxes{
+	max-width:960px!important;
+	margin:auto;
+}
+#bnr_box{
+	height: 70px;
+	border: 1px solid #245BF1;	
+}
+#body_box{
+	border: 1px solid white;
+	height: 360px;
+}
